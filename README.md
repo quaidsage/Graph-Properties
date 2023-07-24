@@ -1,2 +1,2 @@
 # Graph-Properties
-Program that returns the properties of a given graph (Root verticies, reflexivity, transitivity, etc) and return Breadth-First and Depth-First search orders (Iterative and Recursive).
+Program that, for a given graph (via file), returns the properties (Root verticies, Reflexivity, Transitivity, etc) and Breadth-First and Depth-First search orders (Iterative and Recursive) via command.
